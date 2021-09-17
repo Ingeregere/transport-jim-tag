@@ -1,0 +1,15 @@
+
+@media screen and (max-width: 576px) {
+    .margeHr{
+        display: block;
+    }
+}
+
+.designed{
+    text-align: center;
+    font-weight: 800;
+    font-size: 1em;
+}
+.all_link{
+    color: #ffffff !important;
+}

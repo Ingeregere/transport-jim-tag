@@ -1,0 +1,1 @@
+export const API = process.env.CATEGORY_APP_API_URL
